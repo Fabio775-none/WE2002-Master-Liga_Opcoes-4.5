@@ -1,0 +1,22 @@
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\bin\Debug\WE2002-Master-Liga_Opcoes-4.5 by fja.exe.config
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\bin\Debug\WE2002-Master-Liga_Opcoes-4.5 by fja.exe
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\bin\Debug\WE2002-Master-Liga_Opcoes-4.5 by fja.pdb
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\obj\Debug\WE2002-Master-Liga_Opcoes-4.5 by fja.csproj.AssemblyReference.cache
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\obj\Debug\WE2002_Master_Liga_Opcoes_4._5_by_fja.AboutBox1.resources
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\obj\Debug\WE2002_Master_Liga_Opcoes_4._5_by_fja.Form1.resources
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\obj\Debug\WE2002_Master_Liga_Opcoes_4._5_by_fja.Properties.Resources.resources
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\obj\Debug\WE2002-Master-Liga_Opcoes-4.5 by fja.csproj.GenerateResource.cache
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\obj\Debug\WE2002-Master-Liga_Opcoes-4.5 by fja.csproj.CoreCompileInputs.cache
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\obj\Debug\WE2002-Master-Liga_Opcoes-4.5 by fja.exe
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\obj\Debug\WE2002-Master-Liga_Opcoes-4.5 by fja.pdb
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\WE2002-Master-Liga_Opcoes-4.5 by fja\bin\Debug\WE2002-Master-Liga_Opcoes-4.5 by fja.exe.config
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\WE2002-Master-Liga_Opcoes-4.5 by fja\bin\Debug\WE2002-Master-Liga_Opcoes-4.5 by fja.exe
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\WE2002-Master-Liga_Opcoes-4.5 by fja\bin\Debug\WE2002-Master-Liga_Opcoes-4.5 by fja.pdb
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\WE2002-Master-Liga_Opcoes-4.5 by fja\obj\Debug\WE2002-Master-Liga_Opcoes-4.5 by fja.csproj.AssemblyReference.cache
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\WE2002-Master-Liga_Opcoes-4.5 by fja\obj\Debug\WE2002_Master_Liga_Opcoes_4._5_by_fja.AboutBox1.resources
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\WE2002-Master-Liga_Opcoes-4.5 by fja\obj\Debug\WE2002_Master_Liga_Opcoes_4._5_by_fja.Form1.resources
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\WE2002-Master-Liga_Opcoes-4.5 by fja\obj\Debug\WE2002_Master_Liga_Opcoes_4._5_by_fja.Properties.Resources.resources
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\WE2002-Master-Liga_Opcoes-4.5 by fja\obj\Debug\WE2002-Master-Liga_Opcoes-4.5 by fja.csproj.GenerateResource.cache
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\WE2002-Master-Liga_Opcoes-4.5 by fja\obj\Debug\WE2002-Master-Liga_Opcoes-4.5 by fja.csproj.CoreCompileInputs.cache
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\WE2002-Master-Liga_Opcoes-4.5 by fja\obj\Debug\WE2002-Master-Liga_Opcoes-4.5 by fja.exe
+C:\Users\NENHUM\source\repos\WE2002-Master-Liga_Opcoes-4.5 by fja\WE2002-Master-Liga_Opcoes-4.5 by fja\obj\Debug\WE2002-Master-Liga_Opcoes-4.5 by fja.pdb
